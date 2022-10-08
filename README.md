@@ -15,4 +15,4 @@ And Mainly to run codes that require so much time separately.
 
 You need to install the following extensions:
 
-install **Jupyter** :   [https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+install **Jupyter** :   [https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)ff
